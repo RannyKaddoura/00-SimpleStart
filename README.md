@@ -4,8 +4,8 @@
 
 ##Installation
 
-npm install 
+ - npm install 
 
-npm start
+ - npm start
 
-# 00-SimpleStart
+
